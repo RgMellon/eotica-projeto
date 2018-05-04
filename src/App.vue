@@ -1,20 +1,21 @@
 <template>
   <div id="app">
-
     <div class="container">
-      <header>
-        <menu-header> 
-        </menu-header>
-      </header>
-      <main>
+      <div class="container-menu">  
+        <header>
+          <menu-header> 
+          </menu-header>
+        </header>
+      </div>  
+    </div>
+    <div class="container-conteudo">
+      <div class="container-conteudo-wrapper">
+        <main>
           <c-principal>
           </c-principal>
-      </main>
-      <footer>
-      </footer>
-
+        </main>
+      </div>
     </div>
-  
   </div>
 </template>
 

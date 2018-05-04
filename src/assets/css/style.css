@@ -1,9 +1,22 @@
 .container {
   width: 100%;
+  background: white;
+}
+.container-conteudo {
+  width: 100%;
+  background: #F0EFEE;
+}
+.container-conteudo-wrapper{
+  background: #F0EFEE;
   max-width: 1200px;
   margin: 0 auto;
 }
-
+.container-menu {
+  background: white;
+  max-width: 1200px;
+  margin: 0 auto;
+ 
+}
 .container-flex {
   display: flex;
 }
@@ -26,5 +39,5 @@ img {
 html {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
-  
+   background: #F0EFEE;
 }

@@ -40,9 +40,8 @@
 
 <script>
   import Icon from 'vue-awesome/components/Icon.vue';
-  import { mapGetters } from 'vuex';
-  import { mapActions } from 'vuex';
-
+  import { mapGetters, mapActions } from 'vuex';
+  
   export default {
     name: 'card-vue',
     components: {

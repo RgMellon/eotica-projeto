@@ -100,6 +100,7 @@
   }
   .card {
     margin: 1rem;
+    background: white;
   }
   @media(min-width: 1200px) {
     .card {

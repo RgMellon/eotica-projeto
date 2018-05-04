@@ -10,6 +10,16 @@
   background: #F0EFEE;
   max-width: 1200px;
   margin: 0 auto;
+  margin-top: 2rem;
+}
+@media(max-width: 420px) {
+  .container-conteudo-wrapper {
+    background: white;
+    margin-top: 0px;
+  }
+  .container-conteudo{
+    background: white;
+  }
 }
 .container-menu {
   background: white;

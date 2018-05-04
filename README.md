@@ -1,7 +1,8 @@
 # Eotica-projeto
-> Layout responsivo.
-> Pesquisa funcionando.
-> Sistema de favoritos funcionando.
+* Layout responsivo.
+* Pesquisa funcionando.
+* Sistema de favoritos funcionando.
+
 > A Vue.js project
 
 ## Exemplo

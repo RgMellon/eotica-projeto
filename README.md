@@ -5,8 +5,9 @@
 
 > A Vue.js project
 
-## Exemplo
+## Exemplo 
 [eotica-projeto](https://eotica-projeto.herokuapp.com/)
+link com o projeto hospedado.
 
 ## Build Setup
 
@@ -25,7 +26,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 ## Authors
 
-**Renan Melo** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+**Renan Melo**  - [Renan Melo](https://github.com/RgMellon)
 
 
 ## License

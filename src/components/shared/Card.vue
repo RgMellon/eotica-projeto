@@ -12,6 +12,10 @@
       <div class="titulo">
         <h1> {{ i.titulo }}</h1>
       </div>
+      <div class="location container-flex">
+        <icone name="map-marker-alt"> </icone>
+        <p> {{ i.location }}</p>
+      </div>
       <div class="desc">
         <div class="desc-resume">
         <p> {{ i.desc }} </p>
@@ -67,10 +71,17 @@
 </script>
 
 <style scoped>
-  .titulo, .desc {
+  .titulo, .desc, .location {
     padding-right: 1rem;
     padding-left: 1rem;
     margin-top: 0.8rem;
+  }
+  .location p{
+    margin-left: 1rem;
+    font-size: 15px;
+  }
+  .location {
+    color: #aeaaaa;
   }
   .desc {
     font-size: 14px;
